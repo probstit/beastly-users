@@ -1,0 +1,18 @@
+{
+  "name": "beastly-users",
+  "version": "1.0.0",
+  "description": "Beastly User Management code",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/probstit/beastly-users.git"
+  },
+  "keywords": [
+    "beastly"
+  ],
+  "author": "PRO BST IT",
+  "license": "MIT"
+}
